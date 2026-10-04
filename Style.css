@@ -1,0 +1,38 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background: #111827;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: #1f2937;
+  color: #f9fafb;
+  padding: 30px;
+  border-radius: 16px;
+  width: 280px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+  text-align: left;
+}
+
+h2 {
+  margin: 0;
+  font-size: 22px;
+  color: #f3f4f6;
+}
+
+.tag {
+  color: #818cf8;
+  font-size: 13px;
+  margin-top: 4px;
+  margin-bottom: 20px;
+}
+
+.details p {
+  color: #9ca3af;
+  font-size: 13px;
+  margin: 10px 0;
+}
